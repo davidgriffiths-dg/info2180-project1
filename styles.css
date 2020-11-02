@@ -185,8 +185,9 @@ article {
 
 
 .newsletter {
-  
+    
     background-color: #48BB78;
+    padding-bottom: 30px;
     height: 280px;
     color: white;
     width: 1160px;
@@ -214,6 +215,8 @@ button {
 footer {
     background-color:#4A5568;
     color: white;
+    padding-top: 20px;
+    padding-bottom: 20px;
     height: 50px;
     width: 1160px;
     margin: auto;
