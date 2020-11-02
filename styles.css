@@ -127,7 +127,6 @@ header ul li a:hover {
     color: white;
     border-radius: 5px;
     margin: auto;
-
 }
 
 .testing .container {
@@ -137,6 +136,7 @@ header ul li a:hover {
     align-items: center;
 
 }
+
 
 .testing a {
     background-color: #48BB78;
