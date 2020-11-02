@@ -127,7 +127,6 @@ header ul li a:hover {
     color: white;
     border-radius: 5px;
     margin: auto;
-
 }
 
 .testing .container {
@@ -138,11 +137,11 @@ header ul li a:hover {
 
 }
 
+
 .testing a {
     background-color: #48BB78;
     color: white;
     padding: 1em 1.5em;
-
 
 }
 
@@ -170,6 +169,7 @@ header ul li a:hover {
     color: #5A67D8;
 
 }
+
 .stories img {
     width: 200px;
     height: 200px;
